@@ -1,0 +1,15 @@
+{
+  "name": "amandeep_javascript",
+  "version": "1.0.0",
+  "description": "javascript repository for learning javascript",
+  "main": "1.1_first_function.js",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amansandhu2718@gmail.com",
+  "license": "ISC"
+}
