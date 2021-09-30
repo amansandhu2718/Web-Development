@@ -1,0 +1,5 @@
+nom modules used in this repository:
+1. Minimist
+2. FS
+3. Axios
+4. jsDom
